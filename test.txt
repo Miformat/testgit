@@ -1,3 +1,6 @@
+ceci est un fichier de test sssf
+456
+another line
 bla bla
 
 
@@ -98,3 +101,4 @@ bla bla
 
 
 bla bla
+>>>>>>> 59d6eb28c7b5783591099e438f9ad3bfb0839553
